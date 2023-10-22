@@ -15,8 +15,12 @@ Se não possui o git em sua máquina, [instale-o aqui](https://help.github.com/a
 
 ## Faça um _Fork_ deste repositório
 
-Faça um _Fork_ clicando no botão "_Fork_" no topo desta página, uma cópia deste repositório será criada em sua conta.
+Faça um _Fork_ clicando no botão "_Fork_" no topo desta página, que tem a aparência parecida com uma caneta, uma cópia deste repositório será criada em sua conta.
 
+## Caso tenha o Github Desktop
+
+No menu file, ou arquivo, o terceiro item abre a tela de  clonar repositório. Você também pode usar o comando 'Ctrl + Shifh + O'.
+Na tela que abrir, escolha o ultimo botão da esquerda para direita chamado 'URL'. Copie o endereço do repositório e cole ali, depois pressione clonar. 
 ## Clone o repositório
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositório" />
@@ -62,6 +66,11 @@ git switch -c add-andre-oliveira
 ```
 
 Obs.: O nome do _Branch_ não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste _Branch_ é a de adicionar o seu nome à uma lista.
+
+
+## Caso tenha o Github Desktop
+
+no segundo menu, botão do meio, pressione para abrir um menu dropdown. Ali aparecerão seus 'Branches' e terá a opção de criar um novo. 
 
 ## Efetue as alterações necessárias e faça um _Commit_
 
